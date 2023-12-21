@@ -1,0 +1,100 @@
+.h1{
+color: #000;
+text-align: center;
+font-family: Open Sans;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: 160.687%; /* 77.13px */
+text-align: center;
+}
+.layout{
+width: 1920px;
+height: 6295px;
+background: #FFF;
+}
+
+.container {
+    display: flex; /* Arrange elements side-by-side */
+    align-items: center; /* Vertically align elements */
+  }
+  
+  .bullet-points {
+    color: #000;
+text-align: justify;
+font-family: Source Sans Pro;
+font-size: 29px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+  }
+  
+  .box-image {
+ width: 500px;
+height: 500px;
+flex-shrink: 0;
+border-radius: 38px;
+border: 6px solid #FFF;
+background: #A4A4A4;
+box-shadow: 0px 4px 80px 0px rgba(0, 0, 0, 0.17);
+  }
+  
+.box{
+width: 1677px;
+height: 159px;
+flex-shrink: 0;
+border-radius: 28px;
+background: hsl(25, 53%, 86%);
+border-radius: 28px;
+background: #fffefd;
+box-shadow: 0px 4px 80px 0px rgba(0, 0, 0, 0.17);
+  }
+  .box-contain{
+color: #F48220;
+text-align: center;
+font-family: Source Sans Pro;
+font-size: 29px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+width: 1517px;
+  }
+.text-container{
+    color: #0d0707;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 160.687%; /* 77.13px */
+}
+.container {
+    background-image: url("background-image.jpg");
+    background-size: cover; /* Adjust background size as needed */
+    background-position: center; /* Adjust background position as needed */
+    color: #fff; /* Make text visible against the background (adjust based on your image) */
+    padding: 20px;
+  }
+  
+  
+  .abc {
+    color: white;
+    font-size: 23px;
+    font-family: Open Sans;
+    font-weight: 700;
+    line-height: 36.96px;
+    word-wrap: break-word;
+    width: 100%;
+     height: 100%;
+      background: #F48220;
+       border-radius: 11px"
+    
+  }
+  box-container-3{
+color: #F48220;
+ font-size: 32px;
+ font-family: Open Sans;
+ font-weight: 700;
+ word-wrap: break-word
+
+  }
